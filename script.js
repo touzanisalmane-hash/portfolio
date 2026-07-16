@@ -39,6 +39,14 @@ const projects = [
     github: "https://github.com/touzanisalmane-hash/File-Cleaner",
     download: "https://github.com/touzanisalmane-hash/File-Cleaner/releases/tag/v1.0"
   }
+  {
+    title: "Link Shortener",
+    description: "A simple desktop link shortener developed with Python.",
+    image: "pic/image6.png",
+    technologies: ["Python"],
+    github: "https://github.com/touzanisalmane-hash/link_shortener",
+    download: "https://github.com/touzanisalmane-hash/link_shortener/releases/tag/v1.0"
+  }
 ];
 
 
