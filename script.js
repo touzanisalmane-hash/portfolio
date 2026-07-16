@@ -42,7 +42,7 @@ const projects = [
   {
     title: "Link Shortener",
     description: "A simple desktop link shortener developed with Python.",
-    image: "pic/image6.png",
+    image: "pic/image5.png",
     technologies: ["Python"],
     github: "https://github.com/touzanisalmane-hash/link_shortener",
     download: "https://github.com/touzanisalmane-hash/link_shortener/releases/tag/v1.0"
