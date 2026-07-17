@@ -46,6 +46,14 @@ const projects = [
     technologies: ["Python"],
     github: "https://github.com/touzanisalmane-hash/link_shortener",
     download: "https://github.com/touzanisalmane-hash/link_shortener/releases/tag/v1.0"
+  },
+  {
+    title: "Scraper",
+    description: "A Python application that searches products across multiple Morrocan e-commerce websites",
+    image: "pic/image7.png",
+    technologies: ["Python"],
+    github: "https://github.com/touzanisalmane-hash/Scraper",
+    download: ""
   }
 ];
 
