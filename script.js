@@ -54,6 +54,14 @@ const projects = [
     technologies: ["Python"],
     github: "https://github.com/touzanisalmane-hash/Scraper",
     download: ""
+  },
+  {
+    title: "Django Website",
+    description: "A dynamic website built with Python",
+    image: "pic/image8.png",
+    technologies: ["Python"],
+    github: "https://github.com/touzanisalmane-hash/Django-website",
+    download: ""
   }
 ];
 
