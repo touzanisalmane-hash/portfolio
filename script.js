@@ -57,7 +57,7 @@ const projects = [
   },
   {
     title: "Django Website",
-    description: "A dynamic website built with Python",
+    description: "A dynamic website with a chat bot built with Python",
     image: "pic/image8.png",
     technologies: ["Python"],
     github: "https://github.com/touzanisalmane-hash/Django-website",
