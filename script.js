@@ -62,6 +62,14 @@ const projects = [
     technologies: ["Python"],
     github: "https://github.com/touzanisalmane-hash/Django-website",
     download: ""
+  },
+  {
+    title: "Pseudo Runner",
+    description: "A runner game built with Python",
+    image: "pic/image9.png",
+    technologies: ["Python"],
+    github: "https://github.com/touzanisalmane-hash/pseudo_runner",
+    download: "https://github.com/touzanisalmane-hash/pseudo_runner/releases/tag/v1.0"
   }
 ];
 
